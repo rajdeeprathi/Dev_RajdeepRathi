@@ -49,6 +49,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🏆: Github trophies :
+<div>
 https://github-profile-trophy.vercel.app/?username=rajdeeprathi&theme=gruvbox
+  </div>
 
 
