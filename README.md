@@ -20,6 +20,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-:telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :zap: In my free time, you can find me traveling, playing cricket and video games.
+- :mailbox:How to reach me:(https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajdeep-rathi/)
 
-:zap: In my free time, you can find me traveling, playing cricket and video games.
