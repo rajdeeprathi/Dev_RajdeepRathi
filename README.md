@@ -12,3 +12,4 @@
  </div> 
  <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=rajdeeprathi&style=flat-square&color=blue" alt=""/>
+ </div>
